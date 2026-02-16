@@ -1,0 +1,9 @@
+{
+  "id": "table-editor-obsidian",
+  "name": "Advanced Tables",
+  "version": "0.22.1",
+  "minAppVersion": "1.0.0",
+  "description": "Improved table editing and navigation in markdown",
+  "author": "Lijyze",
+  "isDesktopOnly": false
+}

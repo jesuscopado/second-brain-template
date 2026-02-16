@@ -1,0 +1,9 @@
+{
+  "id": "templater-obsidian",
+  "name": "Templater",
+  "version": "2.9.2",
+  "minAppVersion": "1.0.0",
+  "description": "Template engine with variables, functions, and dynamic content generation",
+  "author": "SilentVoid13",
+  "isDesktopOnly": false
+}

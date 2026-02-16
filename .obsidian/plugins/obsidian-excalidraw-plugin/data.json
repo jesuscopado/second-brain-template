@@ -1,0 +1,10 @@
+{
+  "folder": "x/Excalidraw",
+  "templateFilePath": "x/Excalidraw/Template.excalidraw",
+  "scriptFolderPath": "x/Excalidraw/Scripts",
+  "compress": true,
+  "autosave": true,
+  "autosaveIntervalDesktop": 60000,
+  "autosaveIntervalMobile": 30000,
+  "useExcalidrawExtension": true
+}
