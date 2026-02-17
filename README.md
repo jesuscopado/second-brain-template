@@ -89,25 +89,25 @@ All skills are in `.claude/skills/` and invoked with `/` in Claude Code:
 
 | Skill | What it does |
 |-------|-------------|
-| `/onboarding` | Set up your vault — interviews you and personalizes CLAUDE.md |
-| `/daily` | Morning check-in + day briefing (sleep, gratitude, tasks) |
-| `/braindump` | Quick capture — dump raw text and Claude classifies it |
-| `/url` | URL → Source note with summary, key ideas, and highlights |
-| `/weekly` | Weekly reflection — review the week, synthesize, plan the next one |
-| `/consolidate` | Knowledge consolidation — connect orphans, suggest Maps, add wikilinks |
-| `/sync` | Commit + push all changes to the repo |
+| [`/onboarding`](.claude/skills/onboarding/SKILL.md) | Set up your vault — interviews you and personalizes CLAUDE.md |
+| [`/daily`](.claude/skills/daily/SKILL.md) | Morning check-in + day briefing (sleep, gratitude, tasks) |
+| [`/braindump`](.claude/skills/braindump/SKILL.md) | Quick capture — dump raw text and Claude classifies it |
+| [`/url`](.claude/skills/url/SKILL.md) | URL → Source note with summary, key ideas, and highlights |
+| [`/weekly`](.claude/skills/weekly/SKILL.md) | Weekly reflection — review the week, synthesize, plan the next one |
+| [`/consolidate`](.claude/skills/consolidate/SKILL.md) | Knowledge consolidation — connect orphans, suggest Maps, add wikilinks |
+| [`/sync`](.claude/skills/sync/SKILL.md) | Commit + push all changes to the repo |
 
 **Bundled community skills** from [skills.sh](https://skills.sh):
 
 | Skill | What it does |
 |-------|-------------|
-| `/web-research` | Structured web research with sources |
-| `/youtube-transcript` | Extract transcripts from YouTube videos |
-| `/transcribe` | Transcribe audio/video to SRT subtitles |
-| `/writing-clearly-and-concisely` | Copyediting with Strunk's rules |
-| `/excalidraw` | Work with Excalidraw files |
-| `/excalidraw-diagram-generator` | Generate diagrams from natural language |
-| `/domain-name-brainstormer` | Brainstorm domain names and check availability |
+| [`/web-research`](.claude/skills/web-research/SKILL.md) | Structured web research with sources |
+| [`/youtube-transcript`](.claude/skills/youtube-transcript/SKILL.md) | Extract transcripts from YouTube videos |
+| [`/transcribe`](.claude/skills/transcribe/skill.md) | Transcribe audio/video to SRT subtitles |
+| [`/writing-clearly-and-concisely`](.claude/skills/writing-clearly-and-concisely/SKILL.md) | Copyediting with Strunk's rules |
+| [`/excalidraw`](.claude/skills/excalidraw/SKILL.md) | Work with Excalidraw files |
+| [`/excalidraw-diagram-generator`](.claude/skills/excalidraw-diagram-generator/SKILL.md) | Generate diagrams from natural language |
+| [`/domain-name-brainstormer`](.claude/skills/domain-name-brainstormer/SKILL.md) | Brainstorm domain names and check availability |
 
 Want more? Browse [skills.sh](https://skills.sh) and install with:
 
