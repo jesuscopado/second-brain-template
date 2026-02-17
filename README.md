@@ -103,7 +103,7 @@ All skills are in `.claude/skills/` and invoked with `/` in Claude Code:
 |-------|-------------|
 | [`/web-research`](.claude/skills/web-research/SKILL.md) | Structured web research with sources |
 | [`/youtube-transcript`](.claude/skills/youtube-transcript/SKILL.md) | Extract transcripts from YouTube videos |
-| [`/transcribe`](.claude/skills/transcribe/skill.md) | Transcribe audio/video to SRT subtitles |
+| [`/transcribe`](.claude/skills/transcribe/SKILL.md) | Transcribe audio/video to SRT subtitles |
 | [`/writing-clearly-and-concisely`](.claude/skills/writing-clearly-and-concisely/SKILL.md) | Copyediting with Strunk's rules |
 | [`/excalidraw`](.claude/skills/excalidraw/SKILL.md) | Work with Excalidraw files |
 | [`/excalidraw-diagram-generator`](.claude/skills/excalidraw-diagram-generator/SKILL.md) | Generate diagrams from natural language |
