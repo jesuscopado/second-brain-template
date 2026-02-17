@@ -36,6 +36,7 @@ graph TD
 
 ```
 second-brain-template/
+├── Home.md          # Dashboard: your launchpad
 ├── +/               # Inbox: quick capture, process later
 ├── Atoms/           # All knowledge (timeless)
 │   ├── People/      # People (contacts, references)
@@ -58,6 +59,16 @@ second-brain-template/
     ├── Excalidraw/  # Drawings and diagrams
     └── Templates/   # Note templates
 ```
+
+### Home: your launchpad
+
+`Home.md` is a dashboard with collapsible callouts that gives you a single entry point to the vault:
+
+- **Atoms** — Quick links to your Maps and Atoms folders
+- **Calendar** — Access to `/daily`, logs, and a live list of pending tasks
+- **Projects** — Dataview tables showing your active projects by intensity (On, Ongoing, Simmering, Sleeping)
+
+Open it and set it as your default note in Obsidian (`Settings → Editor → Default view for new tabs`).
 
 ### Atoms: your knowledge
 
