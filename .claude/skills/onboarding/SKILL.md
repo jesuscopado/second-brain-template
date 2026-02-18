@@ -1,7 +1,6 @@
 ---
 name: onboarding
 description: Set up your Second Brain — personalize CLAUDE.md with your info
-disable-model-invocation: true
 allowed-tools: Read, Write, Edit, Glob, Grep, AskUserQuestion
 ---
 

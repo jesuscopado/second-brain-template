@@ -1,7 +1,6 @@
 ---
 name: weekly
 description: Weekly reflection — review the week, synthesize, and plan the next one
-disable-model-invocation: true
 allowed-tools: Read, Write, Edit, Glob, Grep, AskUserQuestion, ToolSearch
 ---
 

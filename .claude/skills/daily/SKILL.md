@@ -1,7 +1,6 @@
 ---
 name: daily
 description: Morning check-in + day briefing
-disable-model-invocation: true
 allowed-tools: Read, Glob, Write, AskUserQuestion, ToolSearch
 ---
 

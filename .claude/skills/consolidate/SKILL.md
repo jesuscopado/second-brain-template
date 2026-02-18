@@ -1,7 +1,6 @@
 ---
 name: consolidate
 description: Knowledge consolidation — connect orphans, suggest Maps, add wikilinks
-disable-model-invocation: true
 allowed-tools: Read, Write, Edit, Glob, Grep, AskUserQuestion, ToolSearch
 ---
 

@@ -1,7 +1,6 @@
 ---
 name: braindump
 description: Quick capture — dump raw text and Claude classifies it into your vault
-disable-model-invocation: true
 allowed-tools: Read, Write, Edit, Glob, Grep, AskUserQuestion, ToolSearch
 ---
 

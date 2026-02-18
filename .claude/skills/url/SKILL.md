@@ -1,7 +1,6 @@
 ---
 name: url
 description: URL → Source note with summary, key ideas, and highlights
-disable-model-invocation: true
 allowed-tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch, AskUserQuestion, Skill, ToolSearch
 ---
 

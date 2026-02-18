@@ -1,7 +1,6 @@
 ---
 name: sync
 description: Commit and push all vault changes to git
-disable-model-invocation: true
 allowed-tools: Bash
 ---
 
